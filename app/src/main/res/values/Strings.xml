@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">sharamy</string>
+    <string name="textview">TextView</string>
+    <string-array name="index">
+        <item>وحشتينى</item>
+        <item>جوابى الاخير</item>
+        <item>ما بتحبكش</item>
+        <item>هيبتا</item>
+        <item>كلمة بحبك</item>
+        <item>الشتا</item>
+        <item>خلينا اصحاب</item>
+        <item>الفراشة</item>
+    </string-array>
+</resources>
